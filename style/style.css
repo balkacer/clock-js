@@ -22,7 +22,6 @@ body
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: beige;
     background: url(./clock.png);
     background-size: cover;
     border: 4vmin solid transparent;
